@@ -3,7 +3,7 @@ An implementation agnostic approach to determine if 2 events overlap.
 
 ---
 
-![Allen's 13 Basic relations](/assets/images/allens_13_basic_relations.png)
+![Allen's 13 Basic relations]({{ site.baseurl }}/assets/images/allens_13_basic_relations.png)
 
 ### Shorthand Version
 For any given 2 events: `event1`, `event2`, they overlap if below condition is `true`
