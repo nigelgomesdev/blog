@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 
 title: Canary Engineering
 description: My experiences shared to help others.
+
+baseurl: /blog
